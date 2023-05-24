@@ -9,6 +9,10 @@ const linksList = [
         title: 'Drag',
         page: '/drag'
     },
+    {
+        title: 'Variants',
+        page: '/variants'
+    },
 ]
 
 export default function NavBar() {
